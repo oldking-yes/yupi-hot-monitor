@@ -33,7 +33,7 @@ AI 驱动的热点监控系统 — 输入关键词，自动从多个信息源聚
 
 ```bash
 # 克隆仓库
-git clone https://github.com/oldking-yes/yupi-hot-monitor.git
+git clone https://github.com/ryan-flow/yupi-hot-monitor.git
 cd yupi-hot-monitor
 
 # 后端
